@@ -1,0 +1,7 @@
+C:\GrandCircus\Documents\Lab exercises\MVCCountriesLab\MVCCountriesLab\bin\Debug\MVCCountriesLab.exe.config
+C:\GrandCircus\Documents\Lab exercises\MVCCountriesLab\MVCCountriesLab\bin\Debug\MVCCountriesLab.exe
+C:\GrandCircus\Documents\Lab exercises\MVCCountriesLab\MVCCountriesLab\bin\Debug\MVCCountriesLab.pdb
+C:\GrandCircus\Documents\Lab exercises\MVCCountriesLab\MVCCountriesLab\obj\Debug\MVCCountriesLab.csprojAssemblyReference.cache
+C:\GrandCircus\Documents\Lab exercises\MVCCountriesLab\MVCCountriesLab\obj\Debug\MVCCountriesLab.csproj.CoreCompileInputs.cache
+C:\GrandCircus\Documents\Lab exercises\MVCCountriesLab\MVCCountriesLab\obj\Debug\MVCCountriesLab.exe
+C:\GrandCircus\Documents\Lab exercises\MVCCountriesLab\MVCCountriesLab\obj\Debug\MVCCountriesLab.pdb
